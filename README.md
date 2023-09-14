@@ -90,6 +90,5 @@
 
 ---
 
-Credits: [Shourya Sharma](https://github.com/Shourya742)
 
 Last Edited on: 22/01/2023
